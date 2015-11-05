@@ -1,0 +1,5 @@
+*.gpg
+*.gpg~
+*.swp
+*.pyc
+config.py

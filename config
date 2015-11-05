@@ -1,0 +1,5 @@
+# Define GPG's home directory. I usually make this my project directory
+HOME = ''
+
+# Define the email where you'd like to receive the encrypted file
+MY_EMAIL = ''
