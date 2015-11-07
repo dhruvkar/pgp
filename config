@@ -1,5 +1,5 @@
 # Define GPG's home directory. I usually make this my project directory
-HOME = ''
+HOME = '/Users/dhruvkar/gdrive/dev/pgp'
 
 # Define the email where you'd like to receive the encrypted file
-MY_EMAIL = ''
+MY_EMAIL = 'kar.dhruv@gmail.com'
